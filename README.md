@@ -1,6 +1,8 @@
 ### Introduction to Physical Informed Neural Networks
 
-For this tutorial I mainly credit the original paper [1], the official Github repository [2], and these great posts [4, 5], which introduce the PINNs from a machine learning and physics perspective, respectively.
+This tutorial gives a short introduction to PINNs and shows how to implement in Pytorch a PINN to model a growth function and a 1-dimensional wave.
+
+For this tutorial I mainly credit the original paper [1], the official Github repository [2], and these great posts [4, 5], which introduce the PINNs from a machine learning and a physics perspective, respectively.
 
 ## References
 
